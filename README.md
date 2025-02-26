@@ -1,14 +1,13 @@
-## Hi there 👋
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
 
-<!--
-# Hi there, I'm Kaustubh Titare! 👋
+## Hi there, I'm 0kt1! 👋
 
 ### 🚀 About Me
-I'm a passionate **Software Developer & Data Enthusiast** with a strong interest in **AI, Blockchain, and Cloud Technologies**. I enjoy solving complex problems and building innovative applications. Currently, I'm working on:
-- **Human-like AI Mental Health Virtual Bot** 🤖
-- **Voice-only Chatbot using Groq API & Flutter** 🎙️
-- **Disease Detection in Plants using AI & Flutter** 🌱
-- **Farmer Chatroom App like Discord** 💬
+I'm a **enthusiastic learner** with a strong interest in **Software Development and AI**. I enjoy solving problems and building innovative applications. Currently, I'm working on:
+
+
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,20 +20,21 @@ I'm a passionate **Software Developer & Data Enthusiast** with a strong interest
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔥 GitHub Stats
-![Kaustubh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaustubhtitare&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhtitare&layout=compact&theme=radical)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=0kt1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0kt1&theme=radical&hide_border=true" alt="Streak Stats" width="48%"/>
+
 
 ### 📌 Featured Projects
-- [**Voice-Only Chatbot**](https://github.com/kaustubhtitare/voice-chatbot)
-- [**AI Mental Health Bot**](https://github.com/kaustubhtitare/mental-health-ai)
-- [**Blockchain Hotel Search**](https://github.com/kaustubhtitare/hotel-search-blockchain)
-- [**Flutter Farmer Chatroom**](https://github.com/kaustubhtitare/farmer-chatroom)
+- 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubhtitare/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaustubhtitare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://kaustubhtitare.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 
 ⚡ **"Building solutions that matter!"**
-
--->
